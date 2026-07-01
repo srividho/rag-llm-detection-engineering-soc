@@ -144,3 +144,7 @@ These observations strongly support the motivation behind my proposed research t
 This paper helped me understand the broader AI landscape within Security Operations Centers before focusing on individual implementation techniques.
 
 Rather than introducing a completely new algorithm, the survey emphasizes the importance of integrating multiple AI capabilities to improve SOC efficiency. One idea that stood out during my reading is that future SOCs are likely to rely on AI as an assistant rather than replacing human analysts completely. This aligns closely with the direction I intend to follow in my own research, where AI provides investigation support and detection engineering recommendations while keeping the analyst responsible for the final decision.
+
+
+Keywords
+#AI #LLM #SOC #Detection Engineering #MITRE ATT&CK #RAG #Threat Intelligence
