@@ -4,13 +4,11 @@
 
 # Objective
 
-The objective of Architecture V2 is to define the implementation framework for the proposed AI-assisted Detection Engineering system. Unlike the initial conceptual architecture, this version describes how security events will be generated, collected, analysed, and evaluated throughout the research. The framework combines a locally deployed Security Operations Center (SOC), Wazuh SIEM, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and trusted cybersecurity knowledge sources to support security investigations and detection engineering activities. In addition to the experimental SOC environment, the Microsoft GUIDE dataset is incorporated as an evaluation dataset, allowing the proposed framework to be assessed using both locally generated security events and real-world analyst-labelled incidents. This architecture establishes the foundation for implementing and evaluating the proposed research framework.
+The objective of Architecture V2 is to translate the proposed research framework into an implementable and evaluable system. Unlike the initial conceptual architecture, this version defines how security events will be generated, collected, analysed, and evaluated throughout the research. The framework combines a locally deployed SOC environment, Wazuh SIEM, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and trusted cybersecurity knowledge sources to support investigation and detection engineering activities. To strengthen the evaluation, the architecture also incorporates the Microsoft GUIDE dataset, allowing the proposed framework to be assessed using both locally generated security events and real-world analyst-labelled incidents. This integrated design provides a practical foundation for implementing, validating, and evaluating an AI-assisted Detection Engineering framework for modern Security Operations Centers.
 
 ---
 
 # Architecture Diagram
-
-> *(Insert Architecture-v2.png here once the professional diagram has been created.)*
 
 ```
                                  Proposed AI-Assisted Detection Engineering Framework (Version 2)
